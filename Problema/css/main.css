@@ -1,0 +1,48 @@
+/* Inserta tu CSS aqui */
+.uno {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(128, 128, 128);
+    border: 2px solid black;
+margin-bottom: 5px;
+}
+p {
+    height: 100px;
+    width: 100px;
+   
+    border: black;
+    border: 2px solid #111111;
+    
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 10px;
+   
+   
+}
+   
+   
+.cinco, .seis { 
+    
+    height: 100px;
+    width: 100px;
+    background-color: rgb(128, 128, 128);
+    border: 2px solid black;
+       display: inline-block;
+    margin-right: 10px;
+    margin-top: 10px;
+
+    
+}
+.siete {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(128, 128, 128);
+    border: 2px solid black;
+    margin-top: 10px;
+}
+.ocho {
+   background-color: rgb(128, 128, 128);
+    margin-right: 1210px;
+    padding-left: 10px;
+    
+    }
